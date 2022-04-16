@@ -16,3 +16,11 @@ $('[data-fancybox="gallery"]').fancybox({
             idleTime: 10,
         }
     });
+
+
+    $('.notsetup').on('click',onClickCall);
+    
+    function onClickCall(){
+        console.log("Hello");
+        alert("Under Construction. Sorry For the inconvenience ")
+    }
