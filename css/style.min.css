@@ -276,13 +276,17 @@ label {
 }
 
 .clients {
-    background-image: url(../images/client.png);
+    background-image: url(../images/client.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     color: #ff926b;
     padding: 0;
-    padding: 70px 0
+    padding: 80px 0;
+}
+.clientitem{
+height: 200px;
+width: 200px;
 }
 
 .testimonials {
