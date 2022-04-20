@@ -1,8 +1,3 @@
-
-    // $(window).on("load", (function () {
-    //     $(".lds-ellipsis").fadeOut(), $(".preloader").delay(500).fadeOut("slow"), $("body").delay(803)
-    // }));
-
 $('[data-fancybox="gallery"]').fancybox({
         defaults = {
             loop: true,
