@@ -196,11 +196,12 @@ div {
     font-weight: 800;
     font-family: Merriweather, serif;
     width: 80%;
+    font-size: 8vmin;
     color: #fff
 }
 
 .starting {
-    background-image: url(../images/head.jpg);
+    background-image: url(../images/head.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -212,7 +213,7 @@ div {
 .about {
     padding: 2%;
     margin: 0;
-    background-image: url(../images/bgboss.jpg);
+    background-image: url(../images/bgboss.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -243,7 +244,7 @@ div {
 .our-work {
     margin: 0;
     padding: 5% 3% 10% 3%;
-    background-image: url(../images/pen.jpg);
+    background-image: url(../images/pen.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed
@@ -251,7 +252,7 @@ div {
 
 .sample {
     padding: 5%;
-    background-image: url(../images/mount.jpg);
+    background-image: url(../images/mount.webp);
     background-size: cover;
     background-repeat: no-repeat
 }
@@ -276,7 +277,7 @@ label {
 }
 
 .clients {
-    background-image: url(../images/client.jpg);
+    background-image: url(../images/client.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -290,7 +291,7 @@ width: 200px;
 }
 
 .testimonials {
-    background-image: url(../images/darkmountain.jpg);
+    background-image: url(../images/darkmountain.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -310,7 +311,7 @@ width: 200px;
 
 .contact {
     color: #fff;
-    background-image: url(../images/contact.jpg);
+    background-image: url(../images/contact.webp);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
